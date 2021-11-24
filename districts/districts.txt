@@ -1,0 +1,251 @@
+DISTRICTS IN GHANA
+REGION-CODE DIST-CODE DIST-NAME
+=====ASHANTI
+AH A2 Adansi North
+AH AY Ahafo Ano South
+AH AN Asante Akim North
+AH AI Atwima Mponua
+AH A9 Bosome Freho Ext
+AH AK Kumasi
+AH AO Obuasi
+AH AQ Sekyere Centra
+AH A3 Adansi South
+AH AV Amansie Central
+AH AA Asante Akim South
+AH AH Atwima Nwabiagya
+AH AT Bosomtwe
+AH AU Kumawu
+AH A6 Offinso North
+AH AR Sekyere East
+AH AF Afigya Kwabre
+AH AW Amansie West
+AH AS Asokore Mampong
+AH AB Bekwai
+AH AE Ejisu Juaben
+AH AD Kwabre East
+AH A7 Offinso South
+AH AZ Sekyere South
+AH AX Ahafo Ano North
+AH AC Asante Akim Central
+AH AG Atwima Kwanwoma
+AH A4 Bosome Freho
+AH AJ Ejura-Sekyedumase
+AH AM Mampong
+AH AP Sekyere Afram Plains
+
+=====BONO
+BO BJ Jaman North
+BO BW Wenchi
+BO BD Dormaa
+BO BI Jaman South
+BO BC Banda
+BO BB Berekum
+BO BS Sunyani
+BO BY Sunyani West
+BO BZ Tain
+
+=====BONO EAST
+BE BA Atebubu-Amantin
+BE BK Kintampo North
+BE BL Kintampo South
+BE BN Nkoranza North
+BE BO Nkoranza South
+BE BG Sene East
+BE BH Sene West
+BE BT Techiman
+BE BX Techiman North
+BE BP Pru
+
+=====AHAFO
+AF BU Asunafo North
+AF BE Dormaa East
+AF BV Asunafo South
+AF BF Dormaa West
+AF BQ Asutifi North
+AF BR Asutifi South
+AF B2 Tano North
+AF B3 Tano South
+
+=====Central
+CP CA Abura Asebu Kwamankese
+CP CB Asikuma / Odoben / Brakwa
+CP CX Awutu Senya East
+CP CG Gomoa East
+CP CT Twifo Ati-Morkwa
+CP CG Gomoa East
+CP CP Agona East
+CP CR Assin North
+CP CC Cape Coas
+CP CH Twifo/Heman/Lower Denkyira
+CP CO Agona West
+CP CS Assin Sout
+CP CE Effutu
+CP CK Komenda Edina Eguafo
+CP CU Upper Denkyira East
+CP CJ Ajumako Enyan Esiam
+CP CW Awutu Senya
+CP CF Ekumfi
+CP CM Mfantseman
+CP CV Upper Denkyira West
+
+=====Eastern
+EP E2 Akuapem North
+EP ET Atiwa
+EP EZ Birim South
+EP EK Kwaebibirem
+EP EI Kwahu South
+EP EG Nsawam Adoagyiri
+EP EW West Akim
+EP E3 Akuapem South
+EP EO Ayensuano
+EP ED Denkyembour
+EP EP Kwahu Afram Plains North
+EP EJ Kwahu West
+EP ES Suhum
+EP EM Akyemansa
+EP EB Birim Central
+EP EE East Akim
+EP EQ Kwahu Afram Plains South
+EP EL Lower Manya Krobo
+EP EU Upper Manya Krobo
+EP EA Asuogyaman
+EP EX Birim North
+EP EF Fanteakwa
+EP EH Kwahu East
+EP EN New Juaben
+EP EV Upper West Akim
+EP EY Yilo Krobo
+
+=====Accra
+AA GA Accra
+AA GB Ashaiman
+AA GW Ga West
+AA GZ Ledzokuku Krowor
+AA GY Ada East
+AA GC Ga Central
+AA GK Kpone Katamanso
+AA GN Ningo Prampram
+AA GX Ada West
+AA GE Ga East
+AA GL La Dade-Kotopon
+AA GO Shai-Osudoku
+AA GD Adentann
+AA GS Ga South
+AA GM La Nkwantanang-Madina
+AA GT Tema
+
+=====North East Region
+NE NP Bunkpurugu-Yunyoo
+NE NC Chereponi
+NE NE East Mamprusi
+NE NM Mamprugu Moaduri
+NE ND West Mamprusi
+
+=====Savannah
+SV NB Bole
+SV N3 Central Gonja
+SV N4 East Gonja
+SV N2 North Gonja
+SV NW Sawla Tuna Kalba
+SV N5 West Gonja
+
+=====Northern
+NP NA Kpandai
+NP NN Nanumba North
+NP NS Sagnerigu
+NP NF Tatale Sangule
+NP NY Yendi
+NP NK Kumbungu
+NP NO Nanumba South
+NP NU Savelugu-Nanton
+NP NL Tolon
+NP NG Gushiegu
+NP NR Karaga
+NP NI Mion
+NP NX Saboba
+NP NT Tamale
+NP NZ Zabzugu
+
+=====Upper East
+UE UA Bawku
+UE UO Bongo
+UE UK Kassena Nankana East
+UE UT Talensi
+UE UW Bawku West
+UE UR Builsa North
+UE UL Kassena Nankana West
+UE UU Binduri
+UE US Builsa South
+UE UN Nabdam
+UE UB Bolgatanga
+UE UG Garu-Tempane
+UE UP Pusiga
+
+=====Upper West
+UW XD Daffiama Bussie Issa
+UW XO Nadowli Kaleo
+UW XW Wa
+UW XJ Jirapa
+UW XN Nandom
+UW XX Wa East
+UW XK Lambussie Karni
+UW XS Sissala East
+UW XY Wa West
+UW XL Lawra
+UW XT Sissala West
+
+=====Oti Region
+OT VB Biakoye
+OT VJ Jasikan
+OT VM Kadjebi
+OT VR Krachi East
+OT VQ Krachi Nchumuru
+OT VS Krachi West
+OT VN Nkwanta North
+OT VO Nkwanta South
+
+=====Volta
+TV VA Adaklu
+TV VX Akatsi South
+TV VI Ho West
+TV VK Keta
+TV VE South Tongu
+TV VF Afadjato South
+TV VC Hohoe
+TV VY Ketu North
+TV VD North Dayi
+TV VG Agotime Ziope
+TV VV Central Tongu
+TV VZ Ketu South
+TV VT North Tongu
+TV VW Akatsi North
+TV VH Ho
+TV VP Kpando
+TV VE South Dayi
+
+=====Western North
+WN WA Aowin
+WN WC Bia East
+WN WD Bia West
+WN WB Bibiani/Anhwiaso/Bekwai
+WN WO Bodi
+WN WQ Juaboso
+WN WF Sefwi Akontombra
+WN WG Sefwi Wiaso
+WN WU Suaman
+
+
+=====Western
+WP WH Ahanta West
+WP WY Wassa Amenfi West
+WP WM Mpohor
+WP WT Tarkwa Nsuaem
+WP WZ Wassa East
+WP WE Ellembelle
+WP WN Nzema East
+WP WS Sekondi-Takoradi
+WP WW Wassa Amenfi Central
+WP WJ Jomoro
+WP WP Prestea Huni Valley
+WP WR Shama
+WP WX Wassa Amenfi East
